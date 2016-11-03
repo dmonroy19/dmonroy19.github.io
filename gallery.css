@@ -1,0 +1,55 @@
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  background-color: #ACFFC7;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+#pd {
+  border-style: solid;
+   text-align: center;
+}
+
+h1{
+    font-family: "Broadway Copyist Text Ext";
+}
+a{
+    font-family: "Broadway Copyist Text Ext";
+    font-size: 30px;
+}
+p{
+    font-family: "Broadway Copyist Text Ext";
+    font-size: 30px;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: auto;
+    width: 180px;
+
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+#divq {
+    text-align: center;
+}
+h2{
+    font-family: "Broadway Copyist Text Ext";

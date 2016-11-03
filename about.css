@@ -1,0 +1,82 @@
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  background-color: #ACFFC7;
+  font-family: "Arabic Typesetting";
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+
+#pd {
+  border-style: solid;
+   text-align: center;
+}
+
+h1{
+    font-family: "Arabic Typesetting";
+}
+a{
+    font-family: "Arabic Typesetting";
+    font-size: 30px;
+}
+p{
+    font-family: "Arabic Typesetting";
+    font-size: 30px;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+
+}
+
+}
+h3{
+    font-family: "Arabic Typesetting";
+     text-decoration: underline;
+}
+
+#experience {
+    text-decoration: underline;
+    font-family: "Arabic Typesetting";
+    font-size: 40px;
+}
+#eduaction {
+    text-decoration: underline;
+    font-family: "Arabic Typesetting";
+    font-size: 40px;
+}
+#grad {
+  font-family: "Arabic Typesetting";
+  font-size: 20px;
+}
+li{
+  font-family: "Arabic Typesetting";
+  font-size: 25px;
+}
+#about
+{
+  font-family: "Blackadder ITC";
+  font-size: 50px;
+}
